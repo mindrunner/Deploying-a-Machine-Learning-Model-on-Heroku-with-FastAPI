@@ -1,0 +1,15 @@
+dvc[s3]
+fastapi
+gunicorn
+joblib
+jupyter
+matplotlib
+numpy
+pandas
+pandas-profiling
+pydantic
+pytest
+pylint
+requests
+scikit-learn
+uvicorn

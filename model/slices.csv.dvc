@@ -1,0 +1,4 @@
+outs:
+- md5: c4294adc273f8ff897c48ebe9c7eca4e
+  size: 5798
+  path: slices.csv
